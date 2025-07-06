@@ -1,4 +1,12 @@
-### tone_adapter
+##### TASK-1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               COMPANY NAME : COURSEVITA
+
+NAME : PULAMARASETTI SHARMILA
+
+DOMAIN : TECH
+
+DURATION : 3MONTHS
+
+TRAINER NAME : RAKESH
 
 ### Tone Adaptation in AI Responses : Dataset Collection, Rubrics, and Modeling
 This project focuses on studying tone adaptation in AI-generated responses, aiming to make machine-generated text more contextually appropriate and emotionally intelligent. The goal is to train and evaluate models that can adapt tone (e.g., formal, casual, empathetic, assertive) based on the user input or intent.
