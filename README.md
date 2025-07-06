@@ -1,11 +1,8 @@
-##### TASK-1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               COMPANY NAME : COURSEVITA
-
+##### TASK-1  
+COMPANY NAME : COURSEVITA
 NAME : PULAMARASETTI SHARMILA
-
 DOMAIN : TECH
-
 DURATION : 3MONTHS
-
 TRAINER NAME : RAKESH
 
 ### Tone Adaptation in AI Responses : Dataset Collection, Rubrics, and Modeling
